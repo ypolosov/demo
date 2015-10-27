@@ -38,4 +38,12 @@ domestic-lib
 Domestic
 ````
 
+* Откажитесь от установки npm install (вы сможите это сделать позже)
+````shell
+false
+````
 
+* Откажитесь от установки bower install (вы сможите это сделать позже)
+````shell
+false
+````
